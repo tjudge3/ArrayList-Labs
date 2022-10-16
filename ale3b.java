@@ -1,4 +1,5 @@
-//2022-09-10 tjudge - Lab 2 - Exercise 2
+//tjudge - Lab 2 - Exercise 2
+//The assignment was a review assignment for working with arrays and sorting them
 import java.util.*;
 class ale3b {
     public static void main(String args[]){
@@ -13,6 +14,4 @@ class ale3b {
         System.out.println("\r\n After sorting again with the new item");
         System.out.println(countryList);
     }
-
-
 }
